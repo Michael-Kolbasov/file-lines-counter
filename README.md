@@ -1,2 +1,2 @@
 # file-lines-counter
-A program that counts the amount of lines of all files and subdirectories in a custom directory
+A program that counts the amount of lines of all files including files in subdirectories in a custom directory
