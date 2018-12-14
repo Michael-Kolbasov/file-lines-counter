@@ -35,7 +35,7 @@ public class Counter {
         int result = 0;
         try {
             while (reader.readLine() != null) {
-                result += 1;
+                result++;
             }
             System.out.printf("Строк: %4d; Файл: " + file.getAbsolutePath(), result);
             System.out.println();
